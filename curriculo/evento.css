@@ -1,0 +1,52 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        img{
+            border-radius: 150%;
+            max-width: 250px;
+            border: 1px solid rgb(237, 8, 8);
+        }
+
+    
+        .header {
+            text-align: center;
+            margin: 20px 0;
+            background-color: rgb(13, 236, 236);
+            color: rgb(10, 132, 239);
+            text-align: left;
+            padding: 20px;
+        }
+        .photo {
+            text-align: center;
+        }
+        .name {
+            font-size: 24px;
+            font-weight: bold;
+            margin-left: 20px;
+        }
+        .contact {
+            margin-left: 20px;
+            font-size: 18px;
+        }
+        .address {
+            margin-left: 20px;
+            font-size: 18px;
+        }
+        .education {
+            margin-left: 20px;
+            font-size: 18px;
+        }
+        .experience {
+            margin-left: 20px;
+            font-size: 18px;
+        }
+        .skills {
+            margin-left: 20px;
+            font-size: 18px;
+        }
+   
+    
